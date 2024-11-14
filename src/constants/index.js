@@ -149,7 +149,7 @@ const experiences = [{
         company_name: "Polygon + interfaces",
         icon: meta,
         iconBg: "#E6DEDD",
-        date: "Jan 2023 - Present",
+        date: "Jan 2023 - 2024",
         points: [
             "I will make special erc20, bep20 tokens and smart contracts for you on polygon.",
             "Web3 interface developer, I create user interface designs for web3 sites and web3-based applications, test these designs and improve the performance of existing interfaces with their designs",
