@@ -191,7 +191,7 @@ const projects = [{
             },
         ],
         image: carrent,
-        source_code_link: "https://github.com/isaacWman",
+        source_code_link: "https://github.com/jesushealth",
     },
     {
         name: "Multifunctionality and rewards for maintenance",
@@ -210,7 +210,7 @@ const projects = [{
             },
         ],
         image: jobit,
-        source_code_link: "https://github.com/isaacWman",
+        source_code_link: "https://github.com/jesushealth",
     },
     {
         name: "Coded Magic",
@@ -229,7 +229,7 @@ const projects = [{
             },
         ],
         image: tripguide,
-        source_code_link: "https://github.com/IsaacWman",
+        source_code_link: "https://github.com/jesushealth",
     },
 ];
 
